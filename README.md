@@ -1,5 +1,8 @@
 # arithematic-calculator-
 an simple calculator
+
+
+
 def arithmetic_calculator():
     print("=== Simple Arithmetic Calculator ===")
     print("Supported operations: +, -, *, /, ** (exponentiation)")
